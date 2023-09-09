@@ -1,0 +1,6 @@
+include('../../../../tripaway-config-service/Tiltfile')
+include('../../../../tripaway-edge-service/Tiltfile')
+include('../../../../tripaway-location-service/Tiltfile')
+include('../../../../tripaway-trip-service/Tiltfile')
+include('../../../../tripaway-user-service/Tiltfile')
+include('../../../../tripaway-discovery-service/Tiltfile')
