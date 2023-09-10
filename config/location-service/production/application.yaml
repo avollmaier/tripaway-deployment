@@ -9,6 +9,9 @@ server:
       min-spare: 5
 
 spring:
+  cloud:
+    refresh:
+      enabled: false
   application:
     name: location-service
   lifecycle:
